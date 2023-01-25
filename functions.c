@@ -160,7 +160,7 @@ int print_binary(va_list types, char buffer[],
 	int count;
 
 	UNUSED(buffer);
-	UNUSD(flags);
+	UNUSED(flags);
 	UNUSED(width);
 	UNUSED(precision);
 	UNUSED(size);
